@@ -153,7 +153,9 @@ We'll work on it in two stages: first, laying out the positioning of the page, a
 - Open `5_canvas_styling/solution/canvas_styling_target.html` in Chrome.
 - In this starting point, I've already positioned and fleshed out the content. I've also added some classes on to elements. Your job is to write CSS rules to make the document more visually appealing. Try to make it look as much like the target as possible. It doesn't have to be pixel-perfect.
 
-# Part 6: Optional Readings
+# Part 6: Readings
+
+I won't test you on these, but I think you'll find them interesting.
 
 - [Butterick's Typography In Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html)
 - [7 Rules For Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
