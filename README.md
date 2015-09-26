@@ -1,14 +1,10 @@
 # Week 1 Homework
 
-### [A video tutorial for this homework is here.](http://appdev-summer15.github.io/videos/week_1_hw_instructions.html) Open it in a new tab.
-
 ## Part 0: Getting Started
 
 The first step before doing any work will always be to **fork** and then **clone** a repository.
 
 Please follow [the guide to Getting Started With GitHub](https://gist.github.com/rbetina/22186869342fce3bec6b), and use it to fork and clone this repository that you are reading right now. You will always follow this same process to start and submit your work.
-
-**Note:** A couple of you were unable to download the GitHub Desktop App for a Mac OS X version less than 10.9. If so, please send me an email and I'll reply with a solution.
 
 Next, [follow this guide to tweaking your Sublime](https://gist.github.com/rbetina/d07e134223fde2ca4299) to make your life much easier as we move forward.
 
